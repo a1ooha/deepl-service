@@ -1,1 +1,1 @@
-FROM zu1k/deepl
+FROM kanikig/deepl-bk
